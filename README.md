@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- 👨‍🍳 **User Panel**: [food-del-frontend-1a6v.onrender.com](https://food-del-frontend-1a6v.onrender.com)
+- 👨‍🍳 **User Panel**: [food-del-frontend-1a6v.onrender.com](https://food-del-frontend-fiun.onrender.com)
 
 ---
 
